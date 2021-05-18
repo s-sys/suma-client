@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: susemanager-client
+Version: 0.1
+Summary: Client to communicate with SUSEManager RPC
+Home-page: https://github.com/s-sys/suma-client
+Author: ssys
+Author-email: contato@ssys.com.br
+License: UNKNOWN
+Description: UNKNOWN
+Keywords: pip,SUSE,SUSEMANAGER,SUSE Manager
+Platform: UNKNOWN

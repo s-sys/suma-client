@@ -1,0 +1,7 @@
+setup.py
+susemanager_client/__init__.py
+susemanager_client/client.py
+susemanager_client.egg-info/PKG-INFO
+susemanager_client.egg-info/SOURCES.txt
+susemanager_client.egg-info/dependency_links.txt
+susemanager_client.egg-info/top_level.txt
